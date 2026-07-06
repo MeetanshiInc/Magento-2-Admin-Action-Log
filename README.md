@@ -33,3 +33,6 @@ Moreover, the super admin can also monitor the active sessions of the admin user
 Take full control over the admin actions in your Magento 2 store using Meetanshi’s Magento 2 Admin Action Log extension.
 
 For more information, visit ***[https://meetanshi.com/magento-2-admin-action-log.html](https://meetanshi.com/magento-2-admin-action-log.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/admin-action-log/](https://meetanshi.com/docs/magento-2/admin-action-log/)***
